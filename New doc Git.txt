@@ -4,3 +4,5 @@ Sleduyushie 3 stroki skopirovany iz Git i nazyvaetsya "diff":
 @@ -0,0 +1,2 @@
 Pishem chto ugodno na doske ))))
 A eti 2 slova na kirillitce: no cyrillik symbols
+
+1. Novaya strochka.
